@@ -1,5 +1,6 @@
 /* This is the main styles */
 
+<<<<<<< HEAD
 .incr-height {
   height: 100vh;
 }
@@ -7,3 +8,14 @@
 .websiteColor {
   color: black;
 }
+=======
+.incr-height{
+    height: 100vh;
+}
+
+.brand-name {
+    font-size: 16px;
+    line-height: 24px;
+    fill: 1a202c;
+}
+>>>>>>> 6ca6d70803eb1816ed873ecd0578ae95085446a1
