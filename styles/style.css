@@ -1,5 +1,5 @@
 /* This is the main styles */
 
-body {
-  background-color: aqua;  
+.incr-height{
+    height: 100vh;
 }
