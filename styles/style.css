@@ -1,5 +1,9 @@
 /* This is the main styles */
 
-.incr-height{
-    height: 100vh;
+.incr-height {
+  height: 100vh;
+}
+
+.websiteColor {
+  color: black;
 }
