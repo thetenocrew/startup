@@ -1,0 +1,34 @@
+/* This is the aboit styles */
+
+.incr-height {
+    height: 100vh;
+  }
+  
+  .websiteColor {
+    color: black;
+  }
+  
+  .brand-name {
+      font-size: 16px;
+      line-height: 24px;
+      fill: 1a202c;
+  }
+  h2{
+      font-weight: bold;
+  }
+  .first{
+      padding: 20px;
+  }
+  #speech{
+    margin-top: 100px;
+}
+img{
+    width: 100%;
+    height: 100%;
+}
+.image{
+    object-fit: cover;
+}
+ #category{
+    margin-top: 100px;
+}
